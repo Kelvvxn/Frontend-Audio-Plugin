@@ -3,15 +3,15 @@ Introduction:
 
 
 Team Members for full OneSend3D Project:
-● Kelvin Peterson:/
-  ○ Frontend developer/Researcher/
-  ○ kelvin_peterson@wheatoncollege.edu/
-  ○ pdkelvin11@gmail.com/
+● Kelvin Peterson:\
+  ○ Frontend developer/Researcher\
+  ○ kelvin_peterson@wheatoncollege.edu\
+  ○ pdkelvin11@gmail.com\
   
-● Connor White:/
-  ○ Backend developer/Researcher/
-  ○ white_connor@wheatoncollege.edu/
-  ○ connoriferous@gmail.com/
+● Connor White:\
+  ○ Backend developer/Researcher\
+  ○ white_connor@wheatoncollege.edu\
+  ○ connoriferous@gmail.com\
 
 
 How to Run and Sample Input/Output:
