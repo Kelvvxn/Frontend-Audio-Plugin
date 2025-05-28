@@ -8,7 +8,7 @@ Introduction:
   ○ kelvin_peterson@wheatoncollege.edu\
   ○ pdkelvin11@gmail.com
   
-● Connor White:
+● Connor White:\
   ○ Backend developer/Researcher\
   ○ white_connor@wheatoncollege.edu\
   ○ connoriferous@gmail.com
