@@ -18,7 +18,7 @@ How to Run and Sample Input/Output:
 I personally ran the code in visual studio by opening the folder that contains the CombineBoth.sln and then selecting that solution. Then the source code will be displayed and what you will do is at the top click the build button and then click the build solution button. After it is done building righht below the build there is another one on the screen that give you the option to either set the built solution to either release or debug (pick either one), and then one you select the you will then press the filled in green play button to actually run all the code.
 ![Screenshot 2025-05-28 104508](https://github.com/user-attachments/assets/857d0bf7-3d5f-4b44-955e-459859ae0904)
 
-This is what the UI will look like when you first run the code successfully. 
+This is what the UI will look like when you first run the code successfully (This is an example with some audio playing). 
 ![Screenshot 2025-05-09 224454](https://github.com/user-attachments/assets/0a0f6549-44bc-455e-affe-2b8a5b54b464)
 
 Description of what the sliders do are below.
